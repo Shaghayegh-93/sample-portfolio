@@ -110,4 +110,24 @@ p {
   .email-link {
     font-size: 20px;
   }
+  .projectContainer {
+    text-align: center;
+  }
+  .projectContainer img {
+    display: none;
+  }
+  .singleProject h2 {
+    text-align: center;
+  }
+  .singleProject div a {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+  .header-greeting {
+    font-size: 40px;
+  }
+  .personal-info{
+    margin: 0 8px;
+  }
 }
